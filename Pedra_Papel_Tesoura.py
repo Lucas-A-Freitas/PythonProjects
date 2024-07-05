@@ -1,14 +1,9 @@
-#usuario vai esolher o que fazer ( escolher entre pedra, papel ou tesoura ou sair do programa)
-#conferir se usuario escolheu entre as opções
-#conferir quem ganhou
-#marcar os pontos entre usuario e a maquina
 import random
 
 usuario_ganhou = 0
 maquina_ganhou = 0
 
 opcoes = ["pedra", "papel", "tesoura"]
-
 
 
 while True:
